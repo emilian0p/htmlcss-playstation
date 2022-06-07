@@ -16,9 +16,18 @@
 #no-limits{
     color: #0070d1;
 }
+.bg1{
+    background-color: #1f1f1f;
+}
+.bg2{
+    background-color: #bebcbb;
+}
+.bg3{
+    background-color: #161c3b;
+}
 .hero{
     background-image: url("../img/jumbo-bg.png");
-    height: 600px;
+    height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -30,3 +39,4 @@
     background-size: cover;
     background-position:center;
 }
+
