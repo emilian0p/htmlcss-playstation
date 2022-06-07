@@ -1,0 +1,32 @@
+:root{
+    --blue: #0070d1;
+    --bg-grey:#1f1f1f;
+    --light-grey:#bebcbb;
+    --bg-dark-blue:#161c3b;
+    --footer-blue:#00439c;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo-sony{
+    width: 100px;
+    height:40px;
+   
+}
+#no-limits{
+    color: #0070d1;
+}
+.hero{
+    background-image: url("../img/jumbo-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+.hero-2{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
