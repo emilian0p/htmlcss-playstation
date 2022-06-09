@@ -28,14 +28,12 @@
 .hero{
     background-image: url("../img/jumbo-bg.png");
     height: 700px;
-    background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
 }
 .hero-2{
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     height: 600px;
-    background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
 }
